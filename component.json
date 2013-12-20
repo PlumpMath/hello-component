@@ -1,0 +1,10 @@
+{
+  "name": "hello-component",
+  "repo": "daevid/hello-component",
+  "description": "playing with components",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT"
+}
